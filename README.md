@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Olá, me chamo Gabriela, sou de Vitória - ES, Brasil, estou estudando para ser uma Desenvolvedora Full-Stack Júnior.
+Sempre fui solucionadora de problemas, por isso me identifiquei bastante com a aérea de tecnologia. 
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]( https://github.com/GLIMAMEISS)
+
 <!--
 **GLIMAMEISS/GLIMAMEISS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
