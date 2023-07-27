@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Olá, me chamo Gabriela, sou de Vitória - ES, Brasil, estou estudando para ser uma Desenvolvedora Full-Stack Júnior.
-Sempre fui solucionadora de problemas, por isso me identifiquei bastante com a aérea de tecnologia. 
+
 
 📫 How to reach me:
 
