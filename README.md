@@ -4,7 +4,7 @@ Olá, me chamo Gabriela, sou de Vitória - ES, Brasil, estou estudando para ser 
 Sempre fui solucionadora de problemas, por isso me identifiquei bastante com a aérea de tecnologia. 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]( https://github.com/GLIMAMEISS)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-meiss-771a6b173/) 
 <!--
 **GLIMAMEISS/GLIMAMEISS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
