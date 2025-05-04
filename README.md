@@ -1,18 +1,43 @@
-### Hi there 👋
+### 👋 Olá! Seja bem-vindo(a) ao meu perfil
 
-Olá, me chamo Gabriela, sou de Vitória - ES, Brasil, estou estudando para ser uma Desenvolvedora Full-Stack Júnior.
-
- ### I’m currently learning:
- 
-- Programação  de aplicativos Web HTML5 + CSS - Front-end
-- JavaScript e o Framework Node.js - Back-end.
+Me chamo **Gabriela**, sou de Vitória - ES, Brasil 🇧🇷  
+Atualmente estou estudando para me tornar uma **Desenvolvedora Back-End Java**.
 
 
-📫 How to reach me:
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]( https://github.com/GLIMAMEISS)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-meiss-771a6b173/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gabimeiss/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:glimameiss@gmai.com)](mailto:glimameiss@gmail.com)
+### 💻 Atualmente estou aprendendo:
+
+- ☕ **Linguagem:** Java  
+- 🧩 **Frameworks:** Spring Boot, JPA/Hibernate  
+- 🗄️ **Banco de Dados:** MySQL, PostgreSQL  
+- 🌐 **APIs:** RESTful  
+- 🛠️ **Ferramentas:** Maven, Git, GitHub, Postman  
+- ☁️ **Noções básicas:** Docker, GitHub Actions  
+
+
+### 📫 Como me encontrar:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/GLIMAMEISS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-meiss-771a6b173/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabimeiss/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:glimameiss@gmail.com)
+
+
+
+### 🌱 Sobre mim:
+
+- 🎯 Focada em construir APIs e sistemas robustos com Java e Spring Boot  
+- 📚 Amo aprender novas tecnologias e evoluir constantemente  
+- 🚀 Em busca da minha primeira oportunidade como Desenvolvedora Back-End Júnior  
+
+
+
+### 📊 Estatísticas GitHub:
+
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLIMAMEISS&show_icons=true&theme=radical)
+
+
+
+
 
 
